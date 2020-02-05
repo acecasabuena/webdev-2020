@@ -117,7 +117,7 @@ function checkUpdate(){
 								<td><button ><a style='text-decoration:none;' href='delete.php?emp_id=$num_rows[emp_id]' onclick='return checkDelete()'>Delete</a></button>
 								</td>
 							</tr>
-							
+							  ghj
 							";
 							
 						}
